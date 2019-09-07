@@ -8,7 +8,8 @@ Algoritmos Supervisionados:
 - K Nearest Neighbors (KNNs)
 - Arvores de Decisao e Florestas Aleatorias
 - Suport Vector Machines (SVMs)
-- Algoritmos Não Supervisionados:
 
-K Means Clustering
+Algoritmos Não Supervisionados:
+
+- K Means Clustering
 - Analise do Componente Principal
